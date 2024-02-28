@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Conway-Compose</string>
+    <string name="conway_generation">演化次数: %s</string>
+    <string name="conway_population">存活数量：%s</string>
+    <string name="conway_start">开始</string>
+    <string name="conway_stop">结束</string>
+    <string name="conway_reset">重置</string>
+    <string name="conway_next">下一次</string>
+    <string name="conway_pause">暂停</string>
+    <string name="conway_progressing">演化中…</string>
+    <string name="conway_start_tip">触摸以添加生命</string>
+    <string name="conway_resume_tip">继续演化</string>
+    <string name="conway_died_tip">全军覆没</string>
+</resources>

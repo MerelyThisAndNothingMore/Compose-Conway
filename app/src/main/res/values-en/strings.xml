@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Conway-Compose</string>
+    <string name="conway_generation">Generation: %s</string>
+    <string name="conway_population">Population：%s</string>
+    <string name="conway_start">Start</string>
+    <string name="conway_stop">Stop</string>
+    <string name="conway_reset">Reset</string>
+    <string name="conway_next">Next</string>
+    <string name="conway_pause">Pause</string>
+    <string name="conway_progressing">Progressing…</string>
+    <string name="conway_start_tip">Ready. Tap to add some life.</string>
+    <string name="conway_resume_tip">Ready to go.</string>
+    <string name="conway_died_tip">Everyone died.</string>
+</resources>
